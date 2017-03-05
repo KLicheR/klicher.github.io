@@ -1,0 +1,19 @@
+{
+  "name": "klicher.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "devDependencies": {
+    "css-loader": "^0.26.2",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "style-loader": "^0.13.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.5.0",
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristoffer LR <kristoffer.lr@gmail.com>",
+  "license": "ISC"
+}
